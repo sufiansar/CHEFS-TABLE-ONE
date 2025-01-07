@@ -3,7 +3,7 @@
     {
       "recipe_id": 1,
       "recipe_name": "Chicken Basil Stir Fry",
-      "image": "https://example.com/images/chicken_basil_stir_fry.jpg",
+      "image": "/src/components/Images/1.JPG",
       "short_description": "A flavorful Thai-inspired dish with chicken and fresh basil.",
       "ingredients": [
         "550 g chicken",
@@ -17,7 +17,7 @@
     {
       "recipe_id": 2,
       "recipe_name": "Mushroom Risotto",
-      "image": "https://example.com/images/mushroom_risotto.jpg",
+      "image": "/src/components/Images/2.JPG",
       "short_description": "Creamy Italian rice dish loaded with mushrooms.",
       "ingredients": [
         "200 g arborio rice",
@@ -32,7 +32,7 @@
     {
       "recipe_id": 3,
       "recipe_name": "Grilled Salmon",
-      "image": "https://example.com/images/grilled_salmon.jpg",
+      "image": "/src/components/Images/3.JPG",
       "short_description": "Deliciously grilled salmon with a lemon herb marinade.",
       "ingredients": [
         "500 g salmon fillet",
@@ -47,7 +47,7 @@
     {
       "recipe_id": 4,
       "recipe_name": "Vegetable Stir Fry",
-      "image": "https://example.com/images/vegetable_stir_fry.jpg",
+      "image": "/src/components/Images/4.JPG",
       "short_description": "A colorful medley of stir-fried vegetables in a light soy sauce.",
       "ingredients": [
         "200 g broccoli",
@@ -62,7 +62,7 @@
     {
       "recipe_id": 5,
       "recipe_name": "Spaghetti Bolognese",
-      "image": "https://example.com/images/spaghetti_bolognese.jpg",
+      "image": "/src/components/Images/5.JPG",
       "short_description": "Classic Italian pasta dish with a rich meat sauce.",
       "ingredients": [
         "400 g spaghetti",
@@ -77,7 +77,7 @@
     {
       "recipe_id": 6,
       "recipe_name": "Pancakes",
-      "image": "https://example.com/images/pancakes.jpg",
+      "image": "/src/components/Images/6.JPG",
       "short_description": "Fluffy and delicious pancakes perfect for breakfast.",
       "ingredients": [
         "200 g all-purpose flour",
@@ -92,7 +92,7 @@
     {
       "recipe_id": 7,
       "recipe_name": "Beef Tacos",
-      "image": "https://example.com/images/beef_tacos.jpg",
+      "image": "/src/components/Images/7.JPG",
       "short_description": "Spicy and flavorful beef tacos with fresh toppings.",
       "ingredients": [
         "300 g ground beef",
@@ -107,7 +107,7 @@
     {
       "recipe_id": 8,
       "recipe_name": "Caesar Salad",
-      "image": "https://example.com/images/caesar_salad.jpg",
+      "image": "/src/components/Images/8.JPG",
       "short_description": "A fresh salad with crisp lettuce, croutons, and creamy dressing.",
       "ingredients": [
         "200 g romaine lettuce",
@@ -122,7 +122,7 @@
     {
       "recipe_id": 9,
       "recipe_name": "Chocolate Brownies",
-      "image": "https://example.com/images/chocolate_brownies.jpg",
+      "image": "/src/components/Images/9.JPG",
       "short_description": "Rich and fudgy brownies perfect for dessert lovers.",
       "ingredients": [
         "200 g dark chocolate",
@@ -137,7 +137,7 @@
     {
       "recipe_id": 10,
       "recipe_name": "Chicken Noodle Soup",
-      "image": "https://example.com/images/chicken_noodle_soup.jpg",
+      "image": "/src/components/Images/10.JPG",
       "short_description": "A comforting and nourishing soup with chicken and noodles.",
       "ingredients": [
         "300 g chicken breast",
