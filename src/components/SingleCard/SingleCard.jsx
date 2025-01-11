@@ -2,8 +2,7 @@ import React from "react";
 import { IoMdTime } from "react-icons/io";
 import { AiTwotoneFire } from "react-icons/ai";
 
-const SingleCard = ({ recipe }) => {
-  console.log(recipe);
+const SingleCard = ({ recipe, handleCooking }) => {
   const {
     recipe_id,
     recipe_name,
@@ -15,7 +14,7 @@ const SingleCard = ({ recipe }) => {
   } = recipe;
   return (
     <div className="mx-4">
-      <div className="card bg-white w-96 shadow-xl border-2 border-gray-200 h-[685px] text-black">
+      <div className="card bg-white md:w-96 shadow-xl border-2 border-gray-200 h-[685px] text-black">
         <img className=" rounded-xl p-5 w-full h-52 " src={image} alt="Shoes" />
         <div className="card-body p-5">
           <div className=" border-b-2 border-gray-200 py-3 ">
@@ -43,7 +42,10 @@ const SingleCard = ({ recipe }) => {
           </div>
         </div>
         <div className="m-4  ">
-          <button className="btn text-black border-none rounded-3xl bg-[#0BE58A] ">
+          <button
+            onClick={() => handleCooking(recipe)}
+            className="btn text-black border-none rounded-3xl bg-[#0BE58A] "
+          >
             Want to Cook
           </button>
         </div>
